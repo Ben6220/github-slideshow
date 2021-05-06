@@ -1,0 +1,29 @@
+/**
+ * @name        Disthemes
+ * @description  Enjoy Discord over a calm peaceful lake under the northern lights.
+ * @source       https://github.com/Ben6220/github-slideshow/new/main/Discord
+ * @author       ダーリン
+ * @version      1.0
+ */
+ :root {
+  --background-image: url(https://images2.alphacoders.com/896/thumbbig-896781.png); /*Changes Background image*/
+    --bg-blur: 0px; /*changes the blur of the background image*/
+    --main-accent: rgb(35, 77, 117); /*Main accent of the theme for little elements*/
+    --main-accent-rgb: 35, 77, 117; /*RGB code of main accent for some elements, change this if you change main accent*/
+    --popout-blur: 2px; /*Changes the blur of elements that appear on screen*/
+    --bg-opacity: 1; /*Changes the opacity of the background*/
+    --links: rgb(97, 195, 224); /*Color for links*/
+  
+    --panel-boxes: rgba(0, 0, 0, 0.55); /*Changes the background of the surrounded panels*/
+    --second-panel-bg: rgba(0, 0, 0, 0.8); /*changes the bg of panels that come out, like right clicking on a user*/
+    --panel-border: 0px solid rgb(70, 69, 69); /*Changes the borders of the surrounded panels*/
+    --panel-border-radius: 8px; /*Changes the radius of the surrounded panels*/
+    
+    --buttons-background: rgba(138,43,226); /*Changes the color of the buttons*/
+    --buttons-border: 0px solid rgb(102,51,153); /*Changes the color of the buttons*/
+    --buttons-radius: 8px; /*Changes the radius of the buttons*/
+    --buttons-color: white; /*Changes the color of the button text*/
+    --settings-width: 60%; /*Width for the settings window*/
+    --settings-heigth: 85%; /*Width for the settings window*/
+    --icon-padding: 35px; /*Changes the padding between the icon and the text | Default 35px*/
+}
